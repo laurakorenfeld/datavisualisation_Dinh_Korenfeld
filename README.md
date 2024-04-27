@@ -51,18 +51,29 @@ une fois que c'est ok, créez une visualization avec le top 10 des domaines
 
 <img width="527" alt="Capture d’écran 2024-04-27 à 09 49 13" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/95e8cb7a-bb08-4305-aab3-a62294e9cf82">
 
-Ce code nous permet d'ajouter un champ, "email_domain". On a en fait dupliqué le champ "email". On a ensuite séparer le mail par le symbole "@" pour enfin ne garder que la première partie du champ "email_domain", qui correspond au nom de domaine.
+Ce code nous permet d'ajouter un champ, "email_domain". On a en fait dupliqué le champ "email". On a ensuite séparer le mail par le symbole "@" pour enfin ne garder que la deuxième partie du champ "email_domain", qui correspond au nom de domaine.
+
+<img width="604" alt="Capture d’écran 2024-04-27 à 20 21 18" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/e786ea70-7335-4a1a-82f0-95dfcf0ef196">
+
+<img width="605" alt="Capture d’écran 2024-04-27 à 20 21 39" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/7be88805-6c08-41a6-b1f5-d06184506fed">
+
 
 Nous avons également supprimé le champ message qui était redondant. En effet, toutes les informations qu'il contient sont contenues dans les autres champs.
 
+<img width="423" alt="Capture d’écran 2024-04-27 à 20 22 21" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/509f3b0c-4a23-4259-acf9-2730df79b1d7">
+
+La visualisation représente le top 10 des domaines d'e-mail classés par le nombre d'occurrences. Chaque barre horizontale correspond à un domaine spécifique et la longueur de la barre révèle le nombre d'occurrences de chancun des noms de domaine représentés.
+Les domaines “ebay.co.uk” et “tiny.cc” sont les plus utilisés..
+
+Voici le rendu final de notre dashbord :
+
+<img width="586" alt="Capture d’écran 2024-04-27 à 20 24 49" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/d5e0af1e-d2e9-45d2-ba93-eb7e42f0429b">
+
+*Conclusion : *
+
+Ce TP nous a permis de manipuler différentes visualisation et de nous initier à la complexité du choix du modèle qui permet de mettre en avant les données de manière claire.
+Le lancement via Docker nous a permis d'avancer rapidement sur le projet sans nous préoccuper des installations de Kibana.
 
 **Projet de datavisualization**
-Vous avez maintenant les bases pour manipuler les data dans la stack ELK. Il est temps de vous faire votre propre projet.
 
-trouvez vous une idée de projet (en vous posant la question: ai je accès à une source de données pouvant répondre à mon besoin et puis je automatiser  sa récupération?
-discutez avec l'encadrant de la faisabilité et de l'ambition du projet
-⚠️ ne vous lancez pas sur la partie pratique du projet si vous n'avez pas eu la validation
 
-lancez vous !
-Links
-Faire de la dataviz avec Kibana
