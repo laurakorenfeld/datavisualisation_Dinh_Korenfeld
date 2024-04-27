@@ -1,4 +1,4 @@
-# Comptes rendus des TP de Data Visualisation
+# Comptes rendus des TP et projet de Data Visualisation
 Hien Dinh & Laura Korenfeld 
 EPISEN ITS3 - FISA
 
@@ -35,17 +35,23 @@ Affichage du nombre de versions differentes il y a. La visualisation metric four
 <img width="287" alt="Capture d’écran 2024-04-05 à 17 12 20" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/771bc31b-0d6f-4ca1-89fd-2c7e873a0f51">
 
 
-Dashboard regroupant ces visualizations : 
+
+**Dashboard regroupant ces visualizations :**
 
 <img width="576" alt="Capture d’écran 2024-04-05 à 17 13 15" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/78002f0e-484e-4be3-b0bc-dd9afc7377fd">
+
 
 
 *Partie 03*
 
 cleanez les data que vous avez injecté dans votre stack (en utilisant Cerebro)
+
 changez la conf de logstash pour créer un nouveau champs email_domain reprenant le domain de l'adresse mail uniquement (erwan@aleikoum.net > aleikoum.net), pensez à regarder comment mutate fonctionne
 une fois que c'est ok, créez une visualization avec le top 10 des domaines
-⚠️ faites valider que tout est ok à ce stade
+
+<img width="527" alt="Capture d’écran 2024-04-27 à 09 49 13" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/95e8cb7a-bb08-4305-aab3-a62294e9cf82">
+
+
 
 Projet de datavisualization
 Vous avez maintenant les bases pour manipuler les data dans la stack ELK. Il est temps de vous faire votre propre projet.
