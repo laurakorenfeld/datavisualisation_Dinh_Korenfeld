@@ -51,9 +51,12 @@ une fois que c'est ok, créez une visualization avec le top 10 des domaines
 
 <img width="527" alt="Capture d’écran 2024-04-27 à 09 49 13" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/95e8cb7a-bb08-4305-aab3-a62294e9cf82">
 
+Ce code nous permet d'ajouter un champ, "email_domain". On a en fait dupliqué le champ "email". On a ensuite séparer le mail par le symbole "@" pour enfin ne garder que la première partie du champ "email_domain", qui correspond au nom de domaine.
+
+Nous avons également supprimé le champ message qui était redondant. En effet, toutes les informations qu'il contient sont contenues dans les autres champs.
 
 
-Projet de datavisualization
+**Projet de datavisualization**
 Vous avez maintenant les bases pour manipuler les data dans la stack ELK. Il est temps de vous faire votre propre projet.
 
 trouvez vous une idée de projet (en vous posant la question: ai je accès à une source de données pouvant répondre à mon besoin et puis je automatiser  sa récupération?
