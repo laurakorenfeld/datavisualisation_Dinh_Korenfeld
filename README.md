@@ -69,11 +69,41 @@ Voici le rendu final de notre dashbord :
 
 <img width="586" alt="Capture d’écran 2024-04-27 à 20 24 49" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/d5e0af1e-d2e9-45d2-ba93-eb7e42f0429b">
 
-*Conclusion : *
+*Conclusion :*
 
 Ce TP nous a permis de manipuler différentes visualisation et de nous initier à la complexité du choix du modèle qui permet de mettre en avant les données de manière claire.
 Le lancement via Docker nous a permis d'avancer rapidement sur le projet sans nous préoccuper des installations de Kibana.
 
 **Projet de datavisualization**
 
+Pour notre projet de Data Visualisation, nous avons sélectionné l'API Open-Meteo, c'est un service gratuit qui permet aux développeurs d'accéder à des données météorologiques en temps réel et prévisionnelles pour différentes régions à travers le monde. Cette API offre un accès facile et flexible à une vaste gamme de données météorologiques, telles que les températures actuelles, les conditions météorologiques, les précipitations, la vitesse du vent, la visibilité,...
 
+Grâce à cette API, il est possible d'intégrer ces informations dans diverses applications, sites Web et projets, y compris des projets de visualisation de données. 
+
+Pour ce projet, nosu avons sélectionné 10 villes françaises afin d'en comparer différentes données météoroliques. Cette étude montrera donc les villes de :
+
+Bordeaux
+
+Lille
+
+Lyon
+
+Nice
+
+Paris
+
+Rennes
+
+Rouen
+
+Strasbourg
+
+Toulouse
+
+Tours
+
+Dans le but d'obtenir les données de ces villes, il nous a fallu récupérer leur position géographique caractérisée par la latitude et la longitude.
+
+<img width="623" alt="Capture d’écran 2024-04-30 à 09 50 48" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/18ed46e5-ee40-46c4-8ba0-97ba1129d636">
+
+Pour chacune d'entre elles, nous avons selectionné les critères suivant : température, précipitations (pluie, neige) et couverture nuageuse.
