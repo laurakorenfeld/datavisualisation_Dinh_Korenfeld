@@ -80,27 +80,27 @@ Pour notre projet de Data Visualisation, nous avons sélectionné l'API Open-Met
 
 Grâce à cette API, il est possible d'intégrer ces informations dans diverses applications, sites Web et projets, y compris des projets de visualisation de données. 
 
-Pour ce projet, nosu avons sélectionné 10 villes françaises afin d'en comparer différentes données météoroliques. Cette étude montrera donc les villes de :
+Pour ce projet, nous avons sélectionné 10 villes françaises afin d'en comparer différentes données météoroliques. Cette étude montrera donc les villes de :
 
-Bordeaux
+- Bordeaux
 
-Lille
+- Lille
 
-Lyon
+- Lyon
 
-Nice
+- Nice
 
-Paris
+- Paris
 
-Rennes
+- Rennes
 
-Rouen
+- Rouen
 
-Strasbourg
+- Strasbourg
 
-Toulouse
+- Toulouse
 
-Tours
+- Tours
 
 Dans le but d'obtenir les données de ces villes, il nous a fallu récupérer leur position géographique caractérisée par la latitude et la longitude.
 
