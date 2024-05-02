@@ -125,6 +125,21 @@ Voici le tableau récapitulatif des critères que nous avons sélectionnés :
 
 <img width="301" alt="Capture d’écran 2024-05-02 à 16 43 20" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/c4cf749c-6494-4029-9f8b-8778ff3372b6">
 
+## Visualiser les données du jour en cours
+
+<img width="771" alt="Capture d’écran 2024-05-02 à 16 48 27" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/0efd302a-cb76-4ee4-8d16-c76ed06c23e3">
+
+Parmi nos villes sélectionnées, Bordeaux est la ville qui a enregistré la température la plus élevée à 18,2°C, aujourd'hui (19/04/2004). Cette information met en évidence la température la plus chaude atteinte parmi un ensemble de villes surveillées durant cette période spécifique.
+Cela permet d'avoir une vue directes du des températures extrêmes. 
+
+<img width="903" alt="Capture d’écran 2024-05-02 à 17 01 10" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/33bd9cb3-f297-4775-b7ff-4bdd5b8b889c">
+
+<img width="898" alt="Capture d’écran 2024-05-02 à 17 01 38" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/0c2718b6-1308-4490-922d-e69b80da4793">
+
+### Voici le rendu du Dashboard complet pour le jour en cours : 
+
+<img width="871" alt="Capture d’écran 2024-05-02 à 17 01 56" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/f377a2c0-3359-40be-8216-f29248b8049c">
+
 
 ### Conclusion
 
