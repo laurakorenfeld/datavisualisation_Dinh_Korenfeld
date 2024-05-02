@@ -77,5 +77,5 @@ with open("C:/Users/hien2/Downloads/github/datavisualisation_Dinh_Korenfeld/elk-
     for ligne in toutes_les_lignes_json:
         fichier.write(ligne + "\n")
 
-# Confirmer l'enregistrement des données
+# Confirme l'enregistrement des données
 print("Données enregistrées dans data_meteo.json")
