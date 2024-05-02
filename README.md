@@ -116,7 +116,7 @@ Une fois les données indexées dans Elasticsearch, nous avons utilisé Kibana p
 
 ## Choix des visualisations
 
-Pour mener à bien notre projet, nous avons sélectionné plusieurs critères météorologiques qui sont intéréssants à observés sur différents graphiques. Nous avons également varié la période prise en compte : 
+Pour mener à bien notre projet, nous avons sélectionné plusieurs critères météorologiques qui sont intéréssants à observés sur différents graphiques. Nous avons également varié la période prise en compte, pour créer trois dashboards : 
 - données du jour
 - données des trois derniers jours
 - données de la semaine passée
@@ -138,8 +138,39 @@ Cela permet d'avoir une vue directes du des températures extrêmes.
 
 ### Voici le rendu du Dashboard complet pour le jour en cours : 
 
-<img width="871" alt="Capture d’écran 2024-05-02 à 17 01 56" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/f377a2c0-3359-40be-8216-f29248b8049c">
+<img width="607" alt="Capture d’écran 2024-05-02 à 17 05 24" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/03a5d3cd-72d0-4704-9837-1f1d32991842">
 
+
+## Visualiser les données des trois derniers jours
+
+<img width="592" alt="Capture d’écran 2024-05-02 à 17 04 04" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/ced3820b-8483-4134-9955-ba46825074cb">
+
+<img width="613" alt="Capture d’écran 2024-05-02 à 17 04 15" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/7ac54ce3-3cea-430f-8b32-30a916781a6a">
+
+### Voici le rendu du Dashboard complet pour les trois derniers jours : 
+
+<img width="607" alt="Capture d’écran 2024-05-02 à 17 05 10" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/5f34b41c-e6fc-4103-9cf3-20f59c32c15e">
+
+## Visualiser les données de la semaine passée
+
+<img width="493" alt="Capture d’écran 2024-05-02 à 17 10 34" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/fae23f01-50c7-4da3-bc71-e9332d6e34a9">
+
+<img width="492" alt="Capture d’écran 2024-05-02 à 17 10 48" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/8fd3ee01-91e9-4ab3-90d0-0c8e54e2b241">
+
+<img width="493" alt="Capture d’écran 2024-05-02 à 17 11 00" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/97dea77b-9886-4044-a85d-381447252f0a">
+
+<img width="489" alt="Capture d’écran 2024-05-02 à 17 11 13" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/85ee80c7-08f4-41b1-9469-423bbffa8455">
+
+<img width="492" alt="Capture d’écran 2024-05-02 à 17 11 26" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/33ec025e-0649-4116-ac70-21138ab39f33">
+
+<img width="492" alt="Capture d’écran 2024-05-02 à 17 11 34" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/9a32cf9f-bf04-474f-935b-64ed61c5398a">
+
+<img width="485" alt="Capture d’écran 2024-05-02 à 17 11 48" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/8fc3e74d-97ff-4599-a14f-3324c6b722d5">
+
+
+### Voici le rendu du Dashboard complet pour la semaine passée : 
+
+<img width="492" alt="Capture d’écran 2024-05-02 à 17 09 53" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/a19074ce-301e-41ec-bd34-aa7e6e340b5e">
 
 ### Conclusion
 
