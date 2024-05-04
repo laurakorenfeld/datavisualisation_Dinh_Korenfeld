@@ -171,29 +171,45 @@ Il y a eu plus de 12mm de pluie à Paris et Lyon tandis qu'à Toulouse, Tours ou
 
 <img width="607" alt="Capture d’écran 2024-05-02 à 17 05 10" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/5f34b41c-e6fc-4103-9cf3-20f59c32c15e">
 
-## Visualiser les données de la semaine passée
+## Visualiser les données de la semaine passée (du 13 au 20/04/2024)
 
 <img width="493" alt="Capture d’écran 2024-05-02 à 17 10 34" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/fae23f01-50c7-4da3-bc71-e9332d6e34a9">
 
+Ce diagrammes à barres nous expose la température moyenne à Bordeaux pour chaque jour de la semaine passée. La température était élevée autour du 14/04, entre 28 et 30°C, elle est redescendue à 15°C  entre le 16 et le 19/04.
 
 <img width="492" alt="Capture d’écran 2024-05-02 à 17 10 48" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/8fd3ee01-91e9-4ab3-90d0-0c8e54e2b241">
 
+Voici un graphique circulaire pour rendre compte de la répartition des précipitations durant la semaine.
+La ville en présentant le plus est Lille avec près d'un tiers des précipitations parmi nos 10 villes sélectionnées. 5 villes sur 10 y figurent, les autres (Tours, Nice, Toulouse, Rennes, et Bordeaux) figurent dans les 9,75% restant.
+
 <img width="493" alt="Capture d’écran 2024-05-02 à 17 11 00" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/97dea77b-9886-4044-a85d-381447252f0a">
+
+Nous avons sélectionné un graphique à barres horizontales pour représenter la probabilité de précipitation moyenne de la semaine.
+Elle était la plus grande à Strasbourg avec 40% et la plus faible à Bordeaux à 6%.
 
 <img width="489" alt="Capture d’écran 2024-05-02 à 17 11 13" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/85ee80c7-08f4-41b1-9469-423bbffa8455">
 
+Ces jauges de températures maximalent classent les températures des trois villes dans lesquelles il fait le plus chaud parmi les 10 sélectionnées.
+On a classé les températures en 3 catégories : faible (entre 0 et 25), moyenne entre (25 et 30) et élevée (entre 29 et 60). Bordeaux a la plus grande température maximale avec 29,3°C.
+
 <img width="492" alt="Capture d’écran 2024-05-02 à 17 11 26" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/33ec025e-0649-4116-ac70-21138ab39f33">
+
+Ce graphique représente l'évolution de la couverture nuageuse moyenne en pourcentage pour 5 villes. Nice présente globalement le moins de nuage et Strasbourg le plus.
 
 <img width="492" alt="Capture d’écran 2024-05-02 à 17 11 34" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/9a32cf9f-bf04-474f-935b-64ed61c5398a">
 
-<img width="485" alt="Capture d’écran 2024-05-02 à 17 11 48" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/8fc3e74d-97ff-4599-a14f-3324c6b722d5">
+Pour un autre point de vue, nous avons également affiché la couverture nuageuse moyenne par ville (pour la période de la semaine passée).
+Nice est encore une fois la ville avec la plus faible couverture nuageuse (seulement 20%) et s'oppose à Strasbourg qui a été très couverte (90%)
 
 
 ### Voici le rendu du Dashboard complet pour la semaine passée : 
 
-<img width="492" alt="Capture d’écran 2024-05-02 à 17 09 53" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/a19074ce-301e-41ec-bd34-aa7e6e340b5e">
+<img width="621" alt="Capture d’écran 2024-05-04 à 16 03 41" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/f06bd177-a6ec-4a1d-9eff-5ad2065c090c">
 
 ### Conclusion
 
-En conclusion, notre projet nous a permis de mettre en place avec succès un système de collecte et de visualisation de données météorologiques en utilisant la stack ELK. Nous avons suivi une approche structurée pour configurer les composants ELK, récupérer et transformer les données, et les visualiser dans Kibana. Ce rapport détaille notre méthodologie, nos résultats et notre analyse, démontrant notre capacité à tirer parti des fonctionnalités puissantes de la stack ELK pour répondre à nos besoins en matière de collecte et de représentation de données météorologiques.
+Pour conclure, notre projet nous a permis de mettre en place avec succès un système de collecte et de visualisation de données météorologiques en utilisant la stack ELK. Nous avons suivi une approche structurée pour configurer les composants ELK, récupérer et transformer les données, et les visualiser dans Kibana. Ce rapport détaille notre méthodologie, nos résultats et notre analyse, démontrant notre capacité à tirer parti des fonctionnalités puissantes de la stack ELK pour répondre à nos besoins en matière de collecte et de représentation de données météorologiques.
 
+Notre analyse des données météorologiques pourrait également être étendue pour comprendre l'influence des reliefs géographiques, des masses d'eau, et d'autres facteurs sur le climat local. Par exemple, nous pourrions examiner la répartition de la faune et de la flore en corrélation avec les données météorologiques pour mieux comprendre les écosystèmes locaux et leur sensibilité aux changements climatiques.
+Ce projet ouvre donc la voie à des possibilités d'analyse plus approfondie et de prise de décision informée dans divers domaines, de l'urbanisme à la conservation de la nature, en passant par l'agriculture et le tourisme.
+Il serait également intéressant d'obtenir les données précises de prévision pour pouvoir les comparer aux données effectives.
