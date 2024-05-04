@@ -125,7 +125,7 @@ Voici le tableau récapitulatif des critères que nous avons sélectionnés :
 
 <img width="301" alt="Capture d’écran 2024-05-02 à 16 43 20" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/c4cf749c-6494-4029-9f8b-8778ff3372b6">
 
-## Visualiser les données du jour en cours
+## Visualiser les données du jour en cours (19/04/2024)
 
 <img width="771" alt="Capture d’écran 2024-05-02 à 16 48 27" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/0efd302a-cb76-4ee4-8d16-c76ed06c23e3">
 
@@ -134,18 +134,38 @@ Cela permet d'avoir une vue directes du des températures extrêmes.
 
 <img width="903" alt="Capture d’écran 2024-05-02 à 17 01 10" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/33bd9cb3-f297-4775-b7ff-4bdd5b8b889c">
 
+Voici un graphique traçant la moyenne de nos données sur les villes sélectionnées au cours de la journée du 19/04/2024.
+Cela nous donne un aperçu global de la valeur de ces données en France car les villes selectionnées, sont réparties dans tout le pays.
+On observe une couverture nuageuse moyenne, elle tourne autour de 50% (entre 40% et 60%).
+La probabilité de précipitation, quant à elle, est faible en début de journée  (mois de 10%  entre minuit de 13h). Cependant, elle augmente linéairement pour atteindre un pic à 30% à 19h et diminue de nouveau par la suite.
+La température est remarquablement stable sur la journée, le minimum est atteint à 9h avec 7°C. Le maximum, 13°C est atteint à 19h.
+Les trois données, que sont la couverture nuageuse, la probabilité de précipitation et la température atteindent toutes leur maximum à 19h.
+Enfin, la précipitation, de l'ordre du millimètre a une valeur trop basse pour être observé sur ce graphique. Il y a donc eu très peu de pluie.
+
 <img width="898" alt="Capture d’écran 2024-05-02 à 17 01 38" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/0c2718b6-1308-4490-922d-e69b80da4793">
+
+Dans ce graphique, nous observont les mêmes données que précédemment mais cette fois-ci pour une ville donnée, ici Lille.
+La couverture nuageuse à été maximale toute la journée. Le ciel n'a commencé à se dégager qu'à 19h.
+La probabilité de précipitation à évolué entre 0 et 90%, avec deux pics au maximum.
+La température est resté constante, autour de 9°C toute la journée.
+Enfin, quelques centimètres de pluie sont observables, notemment à 5h et autour de 17h.
 
 ### Voici le rendu du Dashboard complet pour le jour en cours : 
 
 <img width="607" alt="Capture d’écran 2024-05-02 à 17 05 24" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/03a5d3cd-72d0-4704-9837-1f1d32991842">
 
 
-## Visualiser les données des trois derniers jours
+## Visualiser les données des trois derniers jours (du 17 au 19/04/2024)
 
 <img width="592" alt="Capture d’écran 2024-05-02 à 17 04 04" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/ced3820b-8483-4134-9955-ba46825074cb">
 
+Ce diagramme à barres verticales expose les températures moyenne dans la journée pour chaque ville que nous avons sélectionné.
+Sans grande surprise, Nice garde la température moyenne la plus haute sur ces trois jours. La tendance des températures moyennes reste globalement constante sur ces trois jours.
+
 <img width="613" alt="Capture d’écran 2024-05-02 à 17 04 15" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/7ac54ce3-3cea-430f-8b32-30a916781a6a">
+
+Ici, nous affichons la précipitation cumulée des trois derniers jours grâce à une carte de chaleur. La couleur dégradée, du blanc au vert foncé rendre très facile la lecture de la hauteur de pluie qui est tombée.
+Il y a eu plus de 12mm de pluie à Paris et Lyon tandis qu'à Toulouse, Tours ou Bordeaux, il n'a pas ou très peu plu.
 
 ### Voici le rendu du Dashboard complet pour les trois derniers jours : 
 
@@ -154,6 +174,7 @@ Cela permet d'avoir une vue directes du des températures extrêmes.
 ## Visualiser les données de la semaine passée
 
 <img width="493" alt="Capture d’écran 2024-05-02 à 17 10 34" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/fae23f01-50c7-4da3-bc71-e9332d6e34a9">
+
 
 <img width="492" alt="Capture d’écran 2024-05-02 à 17 10 48" src="https://github.com/laurakorenfeld/datavisualisation_Dinh_Korenfeld/assets/102244020/8fd3ee01-91e9-4ab3-90d0-0c8e54e2b241">
 
